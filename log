@@ -13,3 +13,9 @@ list.c:32:9: error: unused variable ‘lista’ [-Werror=unused-variable]
 cc1: all warnings being treated as errors
 Compilation failed
 1bf6b24
+Thu 23 Mar 2023 03:57:04 PM UTC: 
+ list.c | 4 ++++
+ 1 file changed, 4 insertions(+)
+ tests:  0|6
+total_score: 0/70
+0775be9
