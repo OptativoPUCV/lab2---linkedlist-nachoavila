@@ -39,3 +39,9 @@ list.c:47:5: note: ...this statement, but the latter is misleadingly indented as
 cc1: all warnings being treated as errors
 Compilation failed
 90c0181
+Sat 25 Mar 2023 09:42:02 PM UTC: 
+ list.c | 9 +++------
+ 1 file changed, 3 insertions(+), 6 deletions(-)
+ tests:  2|5
+total_score: 15/70
+aa7fc61
