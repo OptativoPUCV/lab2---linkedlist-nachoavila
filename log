@@ -67,3 +67,16 @@ Sat 25 Mar 2023 09:58:15 PM UTC:
  tests:  5|4
 total_score: 25/70
 e7cabd1
+Sat 25 Mar 2023 09:59:07 PM UTC: 
+ list.c | 3 +++
+ 1 file changed, 3 insertions(+)
+In file included from test.c:5:
+list.c: In function ‘lastList’:
+list.c:58:26: error: expected ‘;’ before ‘}’ token
+   58 |   return list->tail->data
+      |                          ^
+      |                          ;
+   59 | }
+      | ~                         
+Compilation failed
+66e5714
