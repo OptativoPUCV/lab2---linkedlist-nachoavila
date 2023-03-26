@@ -119,3 +119,9 @@ list.c:73:7: error: request for member ‘prev’ in something not a structure o
 cc1: all warnings being treated as errors
 Compilation failed
 cbdf646
+Sun 26 Mar 2023 01:21:16 AM UTC: 
+ list.c | 13 ++++++++-----
+ 1 file changed, 8 insertions(+), 5 deletions(-)
+ tests:  9|3
+total_score: 35/70
+a392016
